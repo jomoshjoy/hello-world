@@ -1,1 +1,1 @@
-# hello-world. I am exploring how github works
+# hello-world. I am just exploring how github works
